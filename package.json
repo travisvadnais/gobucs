@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/travisvadnais/gobucs/issues"
   },
-  "homepage": "https://github.com/travisvadnais/gobucs#readme"
+  "homepage": "https://github.com/travisvadnais/gobucs#readme",
+  "dependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
