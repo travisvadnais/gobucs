@@ -1,0 +1,19 @@
+{
+  "name": "gobucs",
+  "version": "1.0.0",
+  "description": "OSS Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travisvadnais/gobucs.git"
+  },
+  "author": "Travis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travisvadnais/gobucs/issues"
+  },
+  "homepage": "https://github.com/travisvadnais/gobucs#readme"
+}
